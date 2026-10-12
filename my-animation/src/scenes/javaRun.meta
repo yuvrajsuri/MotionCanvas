@@ -1,0 +1,86 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "source",
+      "targetTime": 5
+    },
+    {
+      "name": "javac",
+      "targetTime": 8
+    },
+    {
+      "name": "jvm",
+      "targetTime": 13.5
+    },
+    {
+      "name": "anyos",
+      "targetTime": 17
+    },
+    {
+      "name": "inside",
+      "targetTime": 21
+    },
+    {
+      "name": "classloader",
+      "targetTime": 23.5
+    },
+    {
+      "name": "load",
+      "targetTime": 25
+    },
+    {
+      "name": "link",
+      "targetTime": 26.5
+    },
+    {
+      "name": "init",
+      "targetTime": 29
+    },
+    {
+      "name": "memory",
+      "targetTime": 31.5
+    },
+    {
+      "name": "metaspace",
+      "targetTime": 33.5
+    },
+    {
+      "name": "heap",
+      "targetTime": 35.5
+    },
+    {
+      "name": "stack",
+      "targetTime": 37.5
+    },
+    {
+      "name": "pc",
+      "targetTime": 40
+    },
+    {
+      "name": "engine",
+      "targetTime": 42.5
+    },
+    {
+      "name": "interpreter",
+      "targetTime": 44.5
+    },
+    {
+      "name": "jit",
+      "targetTime": 47
+    },
+    {
+      "name": "gc",
+      "targetTime": 51.5
+    },
+    {
+      "name": "output",
+      "targetTime": 55
+    },
+    {
+      "name": "outro",
+      "targetTime": 59
+    }
+  ],
+  "seed": 1937406211
+}
